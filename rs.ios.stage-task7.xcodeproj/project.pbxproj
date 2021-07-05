@@ -61,10 +61,7 @@
 		DD7DD1662692658D009DFC72 /* rs.ios.stage-task7 */ = {
 			isa = PBXGroup;
 			children = (
-				DD7DD1672692658D009DFC72 /* AppDelegate.h */,
-				DD7DD1682692658D009DFC72 /* AppDelegate.m */,
-				DD7DD16A2692658D009DFC72 /* SceneDelegate.h */,
-				DD7DD16B2692658D009DFC72 /* SceneDelegate.m */,
+				DD7DD1812692659C009DFC72 /* Supporting Files */,
 				DD7DD16D2692658D009DFC72 /* ViewController.h */,
 				DD7DD16E2692658D009DFC72 /* ViewController.m */,
 				DD7DD1702692658D009DFC72 /* Main.storyboard */,
@@ -74,6 +71,17 @@
 				DD7DD17926926590009DFC72 /* main.m */,
 			);
 			path = "rs.ios.stage-task7";
+			sourceTree = "<group>";
+		};
+		DD7DD1812692659C009DFC72 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DD7DD1672692658D009DFC72 /* AppDelegate.h */,
+				DD7DD1682692658D009DFC72 /* AppDelegate.m */,
+				DD7DD16A2692658D009DFC72 /* SceneDelegate.h */,
+				DD7DD16B2692658D009DFC72 /* SceneDelegate.m */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
